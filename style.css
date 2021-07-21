@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background: rgb(160,252,251);
+background: linear-gradient(99deg, rgba(160,252,251,1) 8%, rgba(244,128,67,1) 32%, rgba(31,3,254,1) 100%);
+}
+#greetflow{
+    width: 1000px;
+}
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    width: 100%
+}
+#slides{
+    width:1000px;
+}
